@@ -1,0 +1,14 @@
+body, h1,h2,h3,h4,h5,h6, div, p, ul, li, time {
+  font-family: sans-serif !important;
+}
+
+code {
+  font-family: "Menlo" !important;
+  font-size: 13px !important;
+  background-color: #FFF9BD !important;
+}
+
+h1 { font-weight: 700; }
+h2 { font-weight: 600; }
+h3 { font-weight: 500; }
+p { font-weight: 400; }
